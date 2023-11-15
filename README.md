@@ -1,12 +1,8 @@
-<p align="center">
-  <font size="+10">Hi👋, I’m @VivekPatel28</font>
-</p>
+# Hi👋, I’m Vivek Patel
 
--  Hi👋, I’m Vivek Patel
-
-- 🌱 I’m currently learning about
+- 🌱 I’m currently learning about <sub>![Static Badge](https://img.shields.io/badge/NEXT.JS-%23000000?style=flat&logo=next.js&logoColor=white)</sub>
   
-- 👨‍💻 All of my projects will be available [here](./readme.md) soon.
+- 👨‍💻 All of my projects will be available [here](#) soon.
   
 - 📫 How to reach me : pr.viky@gmail.com
 
@@ -18,6 +14,7 @@
 ![React](https://img.shields.io/badge/REACT-%23333333?style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=%23333333&color=%2341454A)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=%23E34F26&color=%23E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Static Badge](https://img.shields.io/badge/MARKDOWN-%23000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Node.js](https://img.shields.io/badge/NODE.JS-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![npm](https://img.shields.io/badge/NPM-%23CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![MongoBD](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -36,19 +33,13 @@
 -->
 
 
-
-
-
-
 ### Projects :
-
-#### Dose Calculator
+#### Healthcare Dose Calculator
 - Description: A desktop application to calculate pediatric medication doses based on weight.
-- Technologies: Windows Form Application, ![Static Badge](https://img.shields.io/badge/C%20SHARP-%23004088?style=flate&logo=c%20sharp&labelColor=%23004088&color=%23004088)
+- Technologies: Windows Form Application, <sub>![Static Badge](https://img.shields.io/badge/C%20SHARP-%23004088?style=flate&logo=c%20sharp&labelColor=%23004088&color=%23004088)</sub>
 - [Explore Dose Calculator](https://dosecalculator.github.io/app)
 
 ## Education and Certifications
-
 - Software Developer Certificate, Industry Connect, Auckland (2023)
 - Web Development Bootcamp Certificate, Udemy (2023)
 - Phramcy Technician, Open Polytechnic, Wellington (2018)
