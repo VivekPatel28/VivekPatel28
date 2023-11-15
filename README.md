@@ -1,4 +1,5 @@
-# Hi👋, I’m Vivek Patel
+<h1 align="center">Hi👋, I’m Vivek Patel</h1>
+<h3 align="center">A passionate Software Developer</h3>
 
 - 🌱 I’m currently learning about <sub>![Static Badge](https://img.shields.io/badge/NEXT.JS-%23000000?style=flat&logo=next.js&logoColor=white)</sub>
   
@@ -39,7 +40,7 @@
 - Technologies: Windows Form Application, <sub>![Static Badge](https://img.shields.io/badge/C%20SHARP-%23004088?style=flate&logo=c%20sharp&labelColor=%23004088&color=%23004088)</sub>
 - [Explore Dose Calculator](https://dosecalculator.github.io/app)
 
-## Education and Certifications
+## [Education and Certifications](https://www.udemy.com/certificate/UC-a325de77-ac61-46c2-82d1-a5c56a9ddaec/)
 - Software Developer Certificate, Industry Connect, Auckland (2023) [-Certificate](https://industryconnect.io/Authority/ViewCertificate?guid=34c4006b-68dd-41e1-bb7d-e7f41e5e4fdd)
 - Web Development Bootcamp Certificate, Udemy (2023) [-Certificate](https://www.udemy.com/certificate/UC-a325de77-ac61-46c2-82d1-a5c56a9ddaec/)
 - Phramcy Technician, Open Polytechnic, Wellington (2018)
