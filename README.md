@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning about <sub>![Static Badge](https://img.shields.io/badge/NEXT.JS-%23000000?style=flat&logo=next.js&logoColor=white)</sub>
   
-- 👨‍💻 All of my projects will be available [here](#) soon.
+<!-- 👨‍💻 All of my projects will be available [here](#) soon. -->
   
 - 📫 How to reach me : pr.viky@gmail.com
 
-### 🛠️ Languages and Tools :
+#### 🛠️ Languages and Tools :
 
 ![C#](https://img.shields.io/badge/C%20SHARP-%23004088?style=for-the-badge&logo=c%20sharp&labelColor=%23004088&color=%23004088)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge&logo=javascript&logoColor=black&labelColor=%23F7DF1E&color=%23ECD53F)
