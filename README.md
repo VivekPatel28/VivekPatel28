@@ -1,13 +1,17 @@
 <h1 align="center">Hi👋, I’m Vivek Patel</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
+<!-- <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vivekpatel28&color=blueviolet&style=flat">
+</p> -->
+
 - 🌱 I’m currently learning about <sub>![Static Badge](https://img.shields.io/badge/NEXT.JS-%23000000?style=flat&logo=next.js&logoColor=white)</sub>
   
 <!-- 👨‍💻 All of my projects will be available [here](#) soon. -->
   
 - 📫 How to reach me : pr.viky@gmail.com
 
-#### 🛠️ Languages and Tools :
+### 🛠️ Languages and Tools :
 
 ![C#](https://img.shields.io/badge/C%20SHARP-%23004088?style=for-the-badge&logo=c%20sharp&labelColor=%23004088&color=%23004088)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge&logo=javascript&logoColor=black&labelColor=%23F7DF1E&color=%23ECD53F)
@@ -34,17 +38,33 @@
 -->
 
 
-## :briefcase: Projects:
-### Healthcare Dose Calculator
+### :briefcase: Projects:
+#### Healthcare Dose Calculator
 - Description: A desktop application to calculate pediatric medication doses based on weight.
 - Technologies: Windows Form Application, <sub>![Static Badge](https://img.shields.io/badge/C%20SHARP-%23004088?style=flate&logo=c%20sharp&labelColor=%23004088&color=%23004088)</sub>
 - [Explore Dose Calculator](https://dosecalculator.github.io/app)
 
-## :mortar_board: Education and Certifications:
+### :mortar_board: Education and Certifications:
 - Software Developer Certificate, Industry Connect, Auckland (2023) [-Certificate](https://industryconnect.io/Authority/ViewCertificate?guid=34c4006b-68dd-41e1-bb7d-e7f41e5e4fdd)
 - Web Development Bootcamp Certificate, Udemy (2023) [-Certificate](https://www.udemy.com/certificate/UC-a325de77-ac61-46c2-82d1-a5c56a9ddaec/)
 - Phramcy Technician, Open Polytechnic, Wellington (2018)
 - Bachelor of Pharmacy, Rajiv Gandhi University, India (2011)
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/vivekpatel28">
+  <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vivekpatel28&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vivekpatel28&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p>
+<!-- <a href="https://www.vivekpateltech.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a> -->
+<a href="https://linkedin.com/in/vivek9patel"><img src="https://img.shields.io/badge/-vivek9patel-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:pr.viky@gmail.com"><img src="https://img.shields.io/badge/-pr.viky@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
 
 
