@@ -34,13 +34,13 @@
 -->
 
 
-## Projects :
+## :briefcase: Projects:
 ### Healthcare Dose Calculator
 - Description: A desktop application to calculate pediatric medication doses based on weight.
 - Technologies: Windows Form Application, <sub>![Static Badge](https://img.shields.io/badge/C%20SHARP-%23004088?style=flate&logo=c%20sharp&labelColor=%23004088&color=%23004088)</sub>
 - [Explore Dose Calculator](https://dosecalculator.github.io/app)
 
-## [Education and Certifications](https://www.udemy.com/certificate/UC-a325de77-ac61-46c2-82d1-a5c56a9ddaec/)
+## :mortar_board: Education and Certifications:
 - Software Developer Certificate, Industry Connect, Auckland (2023) [-Certificate](https://industryconnect.io/Authority/ViewCertificate?guid=34c4006b-68dd-41e1-bb7d-e7f41e5e4fdd)
 - Web Development Bootcamp Certificate, Udemy (2023) [-Certificate](https://www.udemy.com/certificate/UC-a325de77-ac61-46c2-82d1-a5c56a9ddaec/)
 - Phramcy Technician, Open Polytechnic, Wellington (2018)
