@@ -40,8 +40,8 @@
 - [Explore Dose Calculator](https://dosecalculator.github.io/app)
 
 ## Education and Certifications
-- Software Developer Certificate, Industry Connect, Auckland (2023)
-- Web Development Bootcamp Certificate, Udemy (2023)
+- Software Developer Certificate, Industry Connect, Auckland (2023) [-Certificate](https://industryconnect.io/Authority/ViewCertificate?guid=34c4006b-68dd-41e1-bb7d-e7f41e5e4fdd)
+- Web Development Bootcamp Certificate, Udemy (2023) [-Certificate](https://www.udemy.com/certificate/UC-a325de77-ac61-46c2-82d1-a5c56a9ddaec/)
 - Phramcy Technician, Open Polytechnic, Wellington (2018)
 - Bachelor of Pharmacy, Rajiv Gandhi University, India (2011)
 
