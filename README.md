@@ -8,13 +8,13 @@
 
 ### 🛠️ Languages and Tools :
 
-![.Net](https://img.shields.io/badge/ASP.NET-purple?style=for-the-badge&logo=.net&logoColor=white&labelColor=5C2992&color=6D409D)
 ![C#](https://img.shields.io/badge/C%20SHARP-%23004088?style=for-the-badge&logo=c%20sharp&labelColor=%23004088&color=%23004088)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge&logo=javascript&logoColor=black&labelColor=%23F7DF1E&color=%23ECD53F)
 ![React](https://img.shields.io/badge/REACT-%23333333?style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=%23333333&color=%2341454A)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=%23E34F26&color=%23E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![Static Badge](https://img.shields.io/badge/MARKDOWN-%23000000?style=for-the-badge&logo=markdown&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MarkDown](https://img.shields.io/badge/MARKDOWN-%23000000?style=for-the-badge&logo=markdown&logoColor=white)  
+![.Net](https://img.shields.io/badge/ASP.NET-purple?style=for-the-badge&logo=.net&logoColor=white&labelColor=5C2992&color=6D409D)
 ![Node.js](https://img.shields.io/badge/NODE.JS-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![npm](https://img.shields.io/badge/NPM-%23CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![MongoBD](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
