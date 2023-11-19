@@ -40,13 +40,13 @@
 
 ### :briefcase: Projects:
 #### Healthcare Dose Calculator
-- Description: A desktop application to calculate pediatric medication doses based on weight.
-- Technologies: Windows Form Application, <sub>![C#](https://img.shields.io/badge/C%20SHARP-%23004088?style=flate&logo=c%20sharp&labelColor=%23004088&color=%23004088)</sub>
+- <strong>Description:</strong> A desktop application to calculate pediatric medication doses based on weight.
+- <strong>Technologies:</strong> Windows Form Application, <sub>![C#](https://img.shields.io/badge/C%20SHARP-%23004088?style=flate&logo=c%20sharp&labelColor=%23004088&color=%23004088)</sub>
 - [Explore Dose Calculator](https://dosecalculator.github.io/app)
 
 #### React Project
-- Description: Performed CRUD operations in a .NET Framework MVC application, utilizing React in the front-end.
-- Technologies: <sub>
+- <strong>Description:</strong> Performed CRUD operations in a .NET Framework MVC application, utilizing React in the front-end.
+- <strong>Technologies:</strong> <sub>
 ![.Net](https://img.shields.io/badge/ASP.NET-purple?style=flate&logo=.net&logoColor=white&labelColor=5C2992&color=6D409D)
 ![C#](https://img.shields.io/badge/C%20SHARP-%23004088?style=flate&logo=c%20sharp&labelColor=%23004088&color=%23004088)
 ![React](https://img.shields.io/badge/REACT-%23333333?style=flate&logo=react&logoColor=%2361DAFB&labelColor=%23333333&color=%2341454A)
