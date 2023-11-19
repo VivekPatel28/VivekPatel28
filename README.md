@@ -41,8 +41,18 @@
 ### :briefcase: Projects:
 #### Healthcare Dose Calculator
 - Description: A desktop application to calculate pediatric medication doses based on weight.
-- Technologies: Windows Form Application, <sub>![Static Badge](https://img.shields.io/badge/C%20SHARP-%23004088?style=flate&logo=c%20sharp&labelColor=%23004088&color=%23004088)</sub>
+- Technologies: Windows Form Application, <sub>![C#](https://img.shields.io/badge/C%20SHARP-%23004088?style=flate&logo=c%20sharp&labelColor=%23004088&color=%23004088)</sub>
 - [Explore Dose Calculator](https://dosecalculator.github.io/app)
+
+#### React Project
+- Description: Performed CRUD operations in a .NET Framework MVC application, utilizing React in the front-end.
+- Technologies: <sub>
+![.Net](https://img.shields.io/badge/ASP.NET-purple?style=flate&logo=.net&logoColor=white&labelColor=5C2992&color=6D409D)
+![C#](https://img.shields.io/badge/C%20SHARP-%23004088?style=flate&logo=c%20sharp&labelColor=%23004088&color=%23004088)
+![React](https://img.shields.io/badge/REACT-%23333333?style=flate&logo=react&logoColor=%2361DAFB&labelColor=%23333333&color=%2341454A)
+![npm](https://img.shields.io/badge/NPM-%23CB3837?style=flate&logo=npm&logoColor=white)
+![Azure](https://img.shields.io/badge/MS%20AZURE-%230078D4?style=flate&logo=microsoft%20azure&logoColor=white) </sub>  
+- [Explore The Project](https://myreactproject.azurewebsites.net/) <br> <sub><strong>(Please note: The page may take a while to load due to the absence of premium services, so I apologize for any inconvenience caused.) </strong></sub>
 
 ### :mortar_board: Education and Certifications:
 - Software Developer Certificate, Industry Connect, Auckland (2023) [-Certificate](https://industryconnect.io/Authority/ViewCertificate?guid=34c4006b-68dd-41e1-bb7d-e7f41e5e4fdd)
