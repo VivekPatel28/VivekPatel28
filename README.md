@@ -42,7 +42,7 @@
 #### Healthcare Dose Calculator
 - <strong>Description:</strong> A desktop application to calculate pediatric medication doses based on weight.
 - <strong>Technologies:</strong> Windows Form Application, <sub>![C#](https://img.shields.io/badge/C%20SHARP-%23004088?style=flate&logo=c%20sharp&labelColor=%23004088&color=%23004088)</sub>
-- [Explore Dose Calculator](https://dosecalculator.github.io/app)
+- [Explore Dose Calculator](https://dosecalculator.github.io/app) <br> <sub><strong>(Please note: This link redirects to a website specifically designed for users to download the application, compatible only with Windows OS.) </strong></sub>
 
 #### React Project
 - <strong>Description:</strong> Performed CRUD operations in a .NET Framework MVC application, utilizing React in the front-end.
