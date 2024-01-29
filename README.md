@@ -73,7 +73,7 @@
 
 <p>
 <!-- <a href="https://www.vivekpateltech.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a> -->
-<a href="https://linkedin.com/in/vivek9patel"><img src="https://img.shields.io/badge/-vivek9patel-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/vivekpatel28"><img src="https://img.shields.io/badge/-vivekpatel28-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:pr.viky@gmail.com"><img src="https://img.shields.io/badge/-pr.viky@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
