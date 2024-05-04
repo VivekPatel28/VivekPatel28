@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=vivekpatel28&color=blueviolet&style=flat">
 </p> -->
 
-- 🌱 I’m currently learning about <sub>![Static Badge](https://img.shields.io/badge/NEXT.JS-%23000000?style=flat&logo=next.js&logoColor=white)</sub>
+- 🌱 I’m currently learning about <sub>![React](https://img.shields.io/badge/REACT-%23333333?style=flate&logo=react&logoColor=%2361DAFB&labelColor=%23333333&color=%2341454A)</sub>
   
 <!-- 👨‍💻 All of my projects will be available [here](#) soon. -->
   
